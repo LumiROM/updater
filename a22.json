@@ -1,0 +1,36 @@
+{
+  "rom_name": "LumiROM",
+  "maintainer": {
+    "name": "Lumi",
+    "handle": "@Luminous418",
+    "device": "Samsung Galaxy A22 4G",
+    "codename": "a22",
+    "avatar_url": "https://avatars.githubusercontent.com/u/107070993?v=4",
+    "telegram": "https://t.me/LumiROMs",
+    "donate_url": "https://buymeacoffee.com/luminous418"
+  },
+  "releases": [
+    {
+      "version": "9.0.2",
+      "version_code": 90002,
+      "build_date": "2026-11-14",
+      "android_version": "17",
+      "oneui_version": "90000",
+      "security_patch": "2026-10-05",
+      "build_fingerprint": "samsung/a34xxx/a34x:17/CP2A.260605.016/A346BXXUHGZJ8:user/release-keys",
+      "device_model": "SM-A225F",
+      "kernel_version": "4.14.357",
+      "partition_layout": "a-only",
+      "changelog": [
+        "Dummy changelog for LumiROM 9.0.2",
+        "This manifest is regenerated automatically by the LumiROM release workflow"
+      ],
+      "download": {
+        "url": "https://example.invalid/LumiROM_9.0.2_PLACEHOLDER_a22.zip",
+        "filename": "LumiROM_9.0.2_PLACEHOLDER_a22.zip",
+        "size_bytes": 0,
+        "install_type": "recovery_zip"
+      }
+    }
+  ]
+}
