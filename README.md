@@ -38,3 +38,8 @@ See `a32.json`. Minimum fields per release:
 - `download.url`, `download.filename`, `download.size_bytes`
 - optional: `download.sha256`, `build_fingerprint`, `oneui_version`, `security_patch`,
   `device_model`, `kernel_version`, `partition_layout`, `install_type`
+
+`changelog_full` points to the markdown changelog of the release
+(`https://github.com/LumiROM/LumiROM/blob/main/changelogs/LumiROM <major.minor>.x/LumiROM <version>.md`).
+The release workflow fills it from the version inside the built zip; when the markdown file
+does not exist yet it is written as `null` and the app hides the "All changes" link.

@@ -25,6 +25,7 @@
         "Dummy changelog for LumiROM 9.0.2",
         "This manifest is regenerated automatically by the LumiROM release workflow"
       ],
+      "changelog_full": "https://github.com/LumiROM/LumiROM/blob/main/changelogs/LumiROM%209.0.x/LumiROM%209.0.2.md",
       "download": {
         "url": "https://example.invalid/LumiROM_9.0.2_PLACEHOLDER_a32m.zip",
         "filename": "LumiROM_9.0.2_PLACEHOLDER_a32m.zip",
