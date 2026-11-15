@@ -13,7 +13,7 @@
     {
       "version": "9.0.2",
       "version_code": 90002,
-      "build_date": "2026-11-14",
+      "build_date": "2026-11-15",
       "android_version": "17",
       "oneui_version": "90000",
       "security_patch": "2026-10-05",
@@ -22,14 +22,21 @@
       "kernel_version": "4.14.357",
       "partition_layout": "a-only",
       "changelog": [
-        "Dummy changelog for LumiROM 9.0.2",
-        "This manifest is regenerated automatically by the LumiROM release workflow"
+        "ROM won't have AI features anymore, as requested by people",
+        "New OTA app that replaces cloudy, which is discontinued, and adds new features",
+        "OTA Update works without root, like it should be",
+        "Brightness has been fixed, it doesnt drop to minimum when it should be at maximum brightness",
+        "Kernel has been modified to fix GPU issues and improve performance",
+        "Hotspot has been fixed, it now works properly",
+        "FluidMotion now works properly",
+        "Logs doesn't spam anymore about things that the device doesn't support"
       ],
       "changelog_full": "https://github.com/LumiROM/LumiROM/blob/main/changelogs/LumiROM%209.0.x/LumiROM%209.0.2.md",
       "download": {
-        "url": "https://example.invalid/LumiROM_9.0.2_PLACEHOLDER_m32.zip",
-        "filename": "LumiROM_9.0.2_PLACEHOLDER_m32.zip",
-        "size_bytes": 0,
+        "url": "https://huggingface.co/buckets/LuminousJD418/LumiROM/resolve/ROMs/9.0.2/SM-M325F/LumiROM_9.0.2-15112026_OFFICIAL_m32.zip?download=true",
+        "filename": "LumiROM_9.0.2-15112026_OFFICIAL_m32.zip",
+        "size_bytes": 3876840656,
+        "sha256": "1a9463c6fda1beb6ddd5ff0a1b6b52c917ace852d09193f01878a13811318598",
         "install_type": "recovery_zip"
       }
     }
