@@ -21,7 +21,7 @@ them by hand unless you are fixing a broken release.
 
 ## Devices
 
-`a22`, `a22x`, `a32`, `a32m`, `f22`, `m32`.
+`a22`, `a32`, `a32m`, `f22`, `m32`.
 
 ## Adding a device
 
