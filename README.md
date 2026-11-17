@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/LumiROM/updater/refs/heads/main/<codename>.jso
 | `<codename>.json` | LumiFota | Full-ROM releases, newest first (keeps history) |
 | `ota/<codename>.json` | LumiFota (incremental) | Incremental OTA releases |
 
-The files in this repository are **placeholders**: the LumiROM release workflow
+The files in this repo are auto-generated; the LumiROM release workflow
 regenerates and pushes them after every successful build (`ADD_LUMIFOTA`). Do not edit
 them by hand unless you are fixing a broken release.
 
