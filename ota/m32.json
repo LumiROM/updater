@@ -3,7 +3,7 @@
   "maintainer": {
     "name": "Lumi",
     "handle": "@Luminous418",
-    "device": "Samsung Galaxy M32",
+    "device": "Samsung Galaxy M32 4G",
     "codename": "m32",
     "avatar_url": "https://avatars.githubusercontent.com/u/107070993?v=4",
     "telegram": "https://t.me/LumiROMs",
@@ -11,9 +11,9 @@
   },
   "releases": [
     {
-      "version": "9.0.2",
-      "version_code": 90002,
-      "build_date": "2026-11-14",
+      "version": "9.0.3",
+      "version_code": 90003,
+      "build_date": "2026-11-21",
       "android_version": "17",
       "oneui_version": "90000",
       "security_patch": "2026-10-05",
@@ -22,14 +22,21 @@
       "kernel_version": "4.14.357",
       "partition_layout": "a-only",
       "changelog": [
-        "Dummy changelog for LumiROM 9.0.2",
-        "This manifest is regenerated automatically by the LumiROM release workflow"
+        "Fixed the 30-second freeze and soft reboot when opening Chromium-based browsers and some banking apps",
+        "Fixed the FaceService crash loop that affected face detection",
+        "Fixed blank or white JPEG photos at the kernel level",
+        "Fixed the crash in Settings > Extra settings > Hide developer status",
+        "Fixed the reboot menu crashing when choosing Reboot, Recovery or Download",
+        "The screen no longer turns off while the lock screen is still loading, so no more pressing power two or three times",
+        "Removed the leftover User guide entry from Settings",
+        "The installer now removes prism apps that are useless"
       ],
-      "changelog_full": "https://github.com/LumiROM/LumiROM/blob/main/changelogs/LumiROM%209.0.x/LumiROM%209.0.2.md",
+      "changelog_full": "https://github.com/LumiROM/LumiROM/blob/main/changelogs/LumiROM%209.0.x/LumiROM%209.0.3.md",
       "download": {
-        "url": "https://example.invalid/LumiROM_9.0.2_PLACEHOLDER_m32.zip",
-        "filename": "LumiROM_9.0.2_PLACEHOLDER_m32.zip",
-        "size_bytes": 0,
+        "url": "https://huggingface.co/buckets/LuminousJD418/OTAs/resolve/9.0.3/SM-M325F/LumiROM_9.0.3-21112026_OFFICIAL_m32-INCREMENTAL_from_9.0.2.zip?download=true",
+        "filename": "LumiROM_9.0.3-21112026_OFFICIAL_m32-INCREMENTAL_from_9.0.2.zip",
+        "size_bytes": 224892350,
+        "sha256": "ca66051c51a75eab13c04f2d68fce571995f7f9f93bc6b7bf67537ffc787a30b",
         "install_type": "recovery_zip"
       }
     }
