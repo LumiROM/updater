@@ -39,6 +39,204 @@
         "sha256": "1a9463c6fda1beb6ddd5ff0a1b6b52c917ace852d09193f01878a13811318598",
         "install_type": "recovery_zip"
       }
+    },
+    {
+      "version": "9.0.1",
+      "version_code": 90001,
+      "build_date": "2026-11-13",
+      "android_version": "17",
+      "oneui_version": "90000",
+      "security_patch": "2026-10-05",
+      "build_fingerprint": "samsung/a34xxx/a34x:17/CP2A.260605.016/A346BXXUHGZJ8:user/release-keys",
+      "device_model": "SM-M325F",
+      "kernel_version": "4.14.357",
+      "partition_layout": "a-only",
+      "changelog": [
+        "Chrome crashes has been fixed",
+        "JPG on social media apps has been fixed",
+        "New kernel with BBR has been added to the ROM to fix data and wifi issues for A32 devices"
+      ],
+      "download": {
+        "url": "https://huggingface.co/buckets/LuminousJD418/LumiROM/resolve/ROMs/9.0.1/SM-M325F/LumiROM_9.0.1-13112026_OFFICIAL_m32.zip?download=true",
+        "filename": "LumiROM_9.0.1-13112026_OFFICIAL_m32.zip",
+        "size_bytes": 4525897082,
+        "sha256": "253dab5c7344befa74ade0276a8e6634ed4fceddab7c1200d712d03af60690ea",
+        "install_type": "recovery_zip"
+      }
+    },
+    {
+      "version": "9.0.0",
+      "version_code": 90000,
+      "build_date": "2026-11-12",
+      "android_version": "17",
+      "oneui_version": "90000",
+      "security_patch": "2026-10-05",
+      "build_fingerprint": "samsung/a34xxx/a34x:17/CP2A.260605.016/A346BXXUHGZJ8:user/release-keys",
+      "device_model": "SM-M325F",
+      "kernel_version": "4.14.357",
+      "partition_layout": "a-only",
+      "changelog": [
+        "One UI 9 / Android 17 base (A346BXXUHGZJ8)",
+        "FluidMotion unlock, app and notification fly-in animations",
+        "FluidMotion settings in LumiROM Settings / UI Settings, no root or LSPosed",
+        "Smoother Quick Settings panel and split-panel transition",
+        "Fixed Launcher animation type preference",
+        "Samsung debloat for ShareLive, Rubin, SCPM and IP Service",
+        "Fixed SDHMS SIOP warning and Samsung Camera patch",
+        "Clean flash recommended when coming from One UI 8.5"
+      ],
+      "download": {
+        "url": "https://huggingface.co/buckets/LuminousJD418/LumiROM/resolve/ROMs/9.0.0/SM-M325F/LumiROM_9.0.0-12112026_OFFICIAL_m32.zip?download=true",
+        "filename": "LumiROM_9.0.0-12112026_OFFICIAL_m32.zip",
+        "size_bytes": 4525944588,
+        "sha256": "72206ab1deceab9aacdf41130197412eebd2b6e8be1c28c55be73ad5026690c1",
+        "install_type": "recovery_zip"
+      }
+    },
+    {
+      "version": "8.7.0",
+      "version_code": 80700,
+      "build_date": "2026-10-07",
+      "android_version": "16",
+      "oneui_version": "80500",
+      "security_patch": "2026-07-05",
+      "build_fingerprint": "samsung/a34xxx/a34x:16/BP4A.251205.006/A346BXXSGFZG4:user/release-keys",
+      "device_model": "SM-M325F",
+      "kernel_version": "4.14.357",
+      "partition_layout": "a-only",
+      "changelog": [
+        "It will reboot on first time after updating the ROM, it is normal and intended",
+        "Added LumIROM Settings to personalize the rom with more to come",
+        "Added a better Knox Patch built-in on the ROM",
+        "Fixed Samsung Camera modes like 0.5x",
+        "Fixed notification style when you apply a new style on settings"
+      ],
+      "download": {
+        "url": "https://huggingface.co/buckets/LuminousJD418/LumiROM/resolve/ROMs/8.7.0/SM-M325F/LumiROM_8.7.0-07102026_OFFICIAL_m32.zip?download=true",
+        "filename": "LumiROM_8.7.0-07102026_OFFICIAL_m32.zip",
+        "size_bytes": 4582027020,
+        "sha256": "acfed4bffb15e8a50f1b1f78ba440296beae22d630228bf3d98f3b21cab45939",
+        "install_type": "recovery_zip"
+      }
+    },
+    {
+      "version": "8.6.5",
+      "version_code": 80605,
+      "build_date": "2026-09-20",
+      "android_version": "16",
+      "oneui_version": "80500",
+      "security_patch": "2026-07-05",
+      "build_fingerprint": "samsung/a34xxx/a34x:16/BP4A.251205.006/A346BXXSGFZG4:user/release-keys",
+      "device_model": "SM-M325F",
+      "kernel_version": "4.14.357",
+      "partition_layout": "a-only",
+      "changelog": [
+        "Fixed black recents preview by switching to the OpenGL renderer",
+        "Fixed app crashes caused by Vulkan",
+        "Fixed the hotspot that could not be turned off",
+        "[a22] Fixed camera bug",
+        "Added a full OTA update system with incremental updates",
+        "Added the LumiROM disclaimer page on First Time Setup in 30 languages",
+        "New navigation bar step in the setup wizard",
+        "Added Software update in Settings that opens Cloudy",
+        "Updated Cloudy to 2.4",
+        "Added more wallpapers"
+      ],
+      "download": {
+        "url": "https://huggingface.co/buckets/LuminousJD418/LumiROM/resolve/ROMs/8.6.5/SM-M325F/LumiROM_8.6.5-20092026_OFFICIAL_m32.zip?download=true",
+        "filename": "LumiROM_8.6.5-20092026_OFFICIAL_m32.zip",
+        "size_bytes": 4583667372,
+        "sha256": "925eb035865790134e57f765a24b521e819dc17c11b03daac805e9f4b04696c3",
+        "install_type": "recovery_zip"
+      }
+    },
+    {
+      "version": "8.6.4",
+      "version_code": 80604,
+      "build_date": "2026-08-16",
+      "android_version": "16",
+      "oneui_version": "80500",
+      "security_patch": "2026-07-05",
+      "build_fingerprint": "samsung/a34xxx/a34x:16/BP4A.251205.006/A346BXXUFFZD5:user/release-keys",
+      "device_model": "SM-M325F",
+      "kernel_version": "4.14.357",
+      "partition_layout": "a-only",
+      "changelog": [
+        "Fixed OTA app and added new goodies on app"
+      ],
+      "download": {
+        "url": "https://huggingface.co/buckets/LuminousJD418/LumiROM/resolve/ROMs/8.6.4/SM-M325F/LumiROM_8.6.4-16082026_OFFICIAL_m32.zip?download=true",
+        "filename": "LumiROM_8.6.4-16082026_OFFICIAL_m32.zip",
+        "size_bytes": 4575482881,
+        "sha256": "395606b8c4f9250ef89c3bf7bb979ff8a1478358bc26dfe0482632d209af56e9",
+        "install_type": "recovery_zip"
+      }
+    },
+    {
+      "version": "8.6.3",
+      "version_code": 80603,
+      "build_date": "2026-08-11",
+      "android_version": "16",
+      "oneui_version": "80500",
+      "security_patch": "2026-07-05",
+      "build_fingerprint": "samsung/a34xxx/a34x:16/BP4A.251205.006/A346BXXUFFZD5:user/release-keys",
+      "device_model": "SM-M325F",
+      "kernel_version": "4.14.357",
+      "partition_layout": "a-only",
+      "changelog": [
+        "New base and new OTA Updater app"
+      ],
+      "download": {
+        "url": "https://huggingface.co/buckets/LuminousJD418/LumiROM/resolve/ROMs/8.6.3/SM-M325F/LumiROM_8.6.3-11082026_OFFICIAL_m32.zip?download=true",
+        "filename": "LumiROM_8.6.3-11082026_OFFICIAL_m32.zip",
+        "size_bytes": 4579058845,
+        "sha256": "96e495e6facca6d69b7320cfd1ee7926d0093e3becaec8c3f79274c8140b91f6",
+        "install_type": "recovery_zip"
+      }
+    },
+    {
+      "version": "8.6.2",
+      "version_code": 80602,
+      "build_date": "2026-05-12",
+      "android_version": "16",
+      "oneui_version": "80500",
+      "security_patch": "2026-04-05",
+      "build_fingerprint": "samsung/a34xxx/a34x:16/BP4A.251205.006/A346BXXUFFZD5:user/release-keys",
+      "device_model": "SM-M325F",
+      "kernel_version": "4.14.357",
+      "partition_layout": "a-only",
+      "changelog": [
+        "AI features has been added"
+      ],
+      "download": {
+        "url": "https://huggingface.co/buckets/LuminousJD418/LumiROM/resolve/ROMs/8.6.2/SM-M325F/LumiROM_8.6.2-12052026_m32.zip?download=true",
+        "filename": "LumiROM_8.6.2-12052026_m32.zip",
+        "size_bytes": 4566797466,
+        "sha256": "acc0f1837e6fe6aa79cfd83de22f9e21db403622f6829623d0c864213536bf8b",
+        "install_type": "recovery_zip"
+      }
+    },
+    {
+      "version": "8.6.1",
+      "version_code": 80601,
+      "build_date": "2026-05-02",
+      "android_version": "16",
+      "oneui_version": "80500",
+      "security_patch": "2026-04-05",
+      "build_fingerprint": "samsung/a34xxx/a34x:16/BP4A.251205.006/A346BXXUFFZD5:user/release-keys",
+      "device_model": "SM-M325F",
+      "kernel_version": "4.14.357",
+      "partition_layout": "a-only",
+      "changelog": [
+        "Fixed app crashing, added new walls, mods to qs and new base"
+      ],
+      "download": {
+        "url": "https://huggingface.co/buckets/LuminousJD418/LumiROM/resolve/ROMs/8.6.1/SM-M325F/LumiROM_8.6.1-02052026_m32.zip?download=true",
+        "filename": "LumiROM_8.6.1-02052026_m32.zip",
+        "size_bytes": 4021246082,
+        "sha256": "9cc0adf9dfc7dc1326c634cea86c52ec77af9ce8f3b5e0965a7fb27ee63de57d",
+        "install_type": "recovery_zip"
+      }
     }
   ]
 }
